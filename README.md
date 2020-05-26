@@ -2,10 +2,10 @@
 Imagem Docker para projetos legados que utilizam o PHP 5.2 e a extensão pgsql para o Postgres
 
    -   Ubuntu 12.04
-    -  Apache
-    -  PHP 5.2.17
-    -  Zend Optimizer
-    - PGSQL
+   -  Apache
+   -  PHP 5.2.17
+   -  Zend Optimizer
+   - PGSQL
 
 ## Iniciar Container
 Para iniciar o container, basta utilizar o seguinte comando:
